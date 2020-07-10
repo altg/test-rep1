@@ -4,4 +4,8 @@ This is my test repository to try things out on GitHub
 
 ## Added a new Branch
 
-Added a new branch called feature to test branching
+Added a new branch called feature to test branching 
+
+## Branch Again
+
+This is a new branch - also called feature
